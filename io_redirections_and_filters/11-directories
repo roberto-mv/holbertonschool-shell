@@ -1,2 +1,4 @@
 #!/bin/bash
-find -type | wc -l
+find . -mindepth 1 -ype d | wc -l
+~
+
