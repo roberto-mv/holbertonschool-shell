@@ -1,4 +1,4 @@
 #!/bin/bash
-find . | wc -l
+ls -l | wc -l
 ~
 
