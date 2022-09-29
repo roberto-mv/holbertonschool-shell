@@ -1,2 +1,2 @@
 #!/bin/bash
-On branch master
+ls -l | wc -l
