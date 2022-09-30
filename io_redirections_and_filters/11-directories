@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -depth d | wc -l
+find . -depth d ".*" | wc -l
