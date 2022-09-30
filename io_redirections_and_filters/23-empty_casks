@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -depht -empty | printf '\n' 
+find . -depht -empty '.*' | printf '\n' 
